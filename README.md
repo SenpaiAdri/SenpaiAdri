@@ -1,6 +1,5 @@
 <!-- INTRODUCTION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Intern&size=35&duration=2000&pause=500&color=DCDCDC&vCenter=true&width=435&lines=Adrian;Fullstack;Android;iOS)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Intern&weight=900&size=35&duration=3000&pause=750&color=F1F1F1&vCenter=true&width=435&lines=Adrian;Full+Stack;Android;iOS)](https://git.io/typing-svg)
 <!-- <h2 align="left">Hi! I'm Adrian, and I'm a full stack developer.</h2>
 
 <!-- STATS -->
