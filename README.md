@@ -11,8 +11,6 @@
   <img src="https://streak-stats.demolab.com?user=SenpaiAdri&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-#
 <!-- SKILLS -->
 <br clear="both">
 
@@ -53,7 +51,7 @@
 </div>
 
 <!-- SNAKE -->
-
+#
 <br clear="both">
 
 <div alight='left'>
@@ -65,7 +63,6 @@
 <div/>
 
 <!-- ACTIVITY GRAPH -->
-###
 #
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenpaiAdri&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" /> <br>
@@ -73,15 +70,15 @@
 </div>
 
 <!-- SOCIAL MEDIA -->
-#
 
-<br clear="both">
+###
+
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="62" height="50" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="50" alt="discord logo"  />
 </div>
 
 
