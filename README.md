@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/output/snake.svg" alt="Snake animation" />
+<img  alt="Snake animation" src="https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/output/snake.svg"/>
 
 ###
 
