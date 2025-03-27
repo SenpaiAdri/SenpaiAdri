@@ -6,15 +6,14 @@
 #
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SenpaiAdri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SenpaiAdri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"
-    />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SenpaiAdri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"/>
   <img src="https://streak-stats.demolab.com?user=SenpaiAdri&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <!-- SKILLS -->
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
@@ -54,8 +53,8 @@
 #
 <br clear="both">
 
-<div alight='left'>
-  <picture aligh='left'>
+<div alight='end'>
+  <picture aligh='end'>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/output/github-snake.svg" />
