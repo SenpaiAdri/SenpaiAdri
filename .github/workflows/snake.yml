@@ -3,6 +3,7 @@ name: GitHub Snake Game
 on:
   schedule:
     - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,7 +20,7 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.SenpaiAdri }}
+          github_user_name: SenpaiAdri
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
