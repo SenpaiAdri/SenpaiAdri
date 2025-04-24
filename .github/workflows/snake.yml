@@ -2,8 +2,10 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-    - cron: "0 12 * * *"
+    - cron: "0 0 * * *"  # Midnight
+    - cron: "0 6 * * *"  # 6 AM
+    - cron: "0 12 * * *" # Noon
+    - cron: "0 18 * * *" # 6 PM
   workflow_dispatch:
   push:
     branches:
