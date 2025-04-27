@@ -13,41 +13,7 @@
 <!-- SKILLS -->
 <br clear="both">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="60" alt="android logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,cs,html,css,lua,postgresql,sqlite,mysql,supabase,vscode,idea,androidstudio,vim,neovim,visualstudio,figma,unity,dotnet&theme=dark&perline=20)](https://skillicons.dev)
 
 <!-- SNAKE -->
 #
