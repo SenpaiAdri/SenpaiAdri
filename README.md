@@ -13,7 +13,7 @@
 <!-- SKILLS -->
 <br clear="both">
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,cs,html,css,lua,postgresql,sqlite,mysql,supabase,vscode,idea,androidstudio,vim,neovim,visualstudio,figma,unity,dotnet&theme=dark&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,cs,html,css,lua,postgresql,sqlite,mysql,supabase,vscode,idea,androidstudio,vim,neovim,visualstudio,figma,unity,dotnet&theme=dark&perline=15)](https://skillicons.dev)
 
 <!-- SNAKE -->
 #
