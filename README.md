@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,cs,react,nextjs,html,css,lua,postgresql,sqlite,mysql,supabase,vscode,idea,androidstudio,vim,neovim,linux,git,visualstudio,figma,unity,dotnet&theme=dark&perline=13" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,ts,cs,react,nextjs,html,css,lua,postgresql,sqlite,mysql,supabase,vscode,idea,androidstudio,vim,neovim,linux,git,visualstudio,figma,unity,dotnet&theme=dark&perline=13" />
   </a>
 </p>
 
