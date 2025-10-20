@@ -45,19 +45,19 @@
 
 
 <div align="center">
-  <a href="https://www.facebook.com/eydriannnnnn/">
+    <a href="https://www.facebook.com/eydriannnnnn/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/_eydriannnnn">
+  <a href="https://www.instagram.com/_eydriannnnn" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
   </a>
-  <a href="mailto:adrian31dg@gmail.com">
+  <a href="mailto:adrian31dg@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="50" alt="gmail logo"  />
   </a>
-  <a href="https://discordapp.com/users/adrian_dg22">
+  <a href="https://discordapp.com/users/adrian_dg22" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="50" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/adrian-de-guzman-b66708362/">
+  <a href="https://www.linkedin.com/in/adrian-de-guzman-b66708362/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
