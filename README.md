@@ -1,6 +1,6 @@
 <!-- INTRODUCTION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Intern&weight=900&size=35&duration=2500&pause=750&color=F1F1F1&vCenter=true&width=435&lines=Adrian;Full+Stack;Android;iOS;Linux;Fedora;Flutter)](https://git.io/typing-svg)
-<p align="center">A Computer Science student focused in Mobile Programming and currently learning Web Development</p>
+<p align="center">A Computer Science student specialized in Mobile Programming and currently learning Web Development</p>
 
 <!-- SKILLS -->
 #
