@@ -36,7 +36,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenpaiAdri&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=SenpaiAdri&theme=github-dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=SenpaiAdri&theme=github-dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 <!-- SOCIAL MEDIA -->
@@ -44,7 +44,7 @@
 ###
 
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://www.facebook.com/eydriannnnnn/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="50" alt="facebook logo"  />
   </a>
@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/adrian-de-guzman-b66708362/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
+</div> -->
 
 
 
