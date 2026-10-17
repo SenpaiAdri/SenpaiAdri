@@ -7,7 +7,7 @@
 <text x="188" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start" letter-spacing="1.5">PROMPTS</text>
 <text x="188" y="122" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#a371f7" text-anchor="start">1.2k</text>
 <text x="340" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start" letter-spacing="1.5">TOKENS</text>
-<text x="340" y="122" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#39d353" text-anchor="start">668.4M</text>
+<text x="340" y="122" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#39d353" text-anchor="start">668.7M</text>
 <text x="492" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" fill="#8b949e" text-anchor="start" letter-spacing="1.5">STEPS</text>
 <text x="492" y="122" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#f78166" text-anchor="start">10.2k</text>
 <rect x="99" y="160" width="11" height="11" fill="#161b22" rx="2"/>
@@ -246,7 +246,7 @@
 <rect x="528" y="186" width="11" height="11" fill="#161b22" rx="2"/>
 <rect x="528" y="199" width="11" height="11" fill="#161b22" rx="2"/>
 <rect x="528" y="212" width="11" height="11" fill="#161b22" rx="2"/>
-<rect x="528" y="225" width="11" height="11" fill="#0e4429" rx="2"/>
+<rect x="528" y="225" width="11" height="11" fill="#006d32" rx="2"/>
 <rect x="528" y="238" width="11" height="11" fill="#161b22" rx="2"/>
 <text x="91" y="169" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#8b949e" text-anchor="end">Mo</text>
 <text x="91" y="195" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" fill="#8b949e" text-anchor="end">We</text>
