@@ -166,24 +166,26 @@
 <rect x="523.0" y="272.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="523.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="577.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
-<rect x="595.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="613.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="577.0" y="236.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="613.0" y="236.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="577.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="595.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="613.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="613.0" y="272.0" width="18" height="18" fill="#ced3e2"/>
-<rect x="577.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
-<rect x="595.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="613.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="649.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="685.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="703.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="721.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
-<rect x="721.0" y="236.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="685.0" y="236.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="685.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="703.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
-<rect x="703.0" y="272.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="721.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="721.0" y="272.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="685.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="703.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="721.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="757.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="829.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="757.0" y="236.0" width="18" height="18" fill="#ced3e2"/>
@@ -513,7 +515,7 @@
 <text x="281.6" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">best streak</text>
 <text x="640.0" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">116</text>
 <text x="640.0" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">active days</text>
-<text x="998.4" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">255</text>
+<text x="998.4" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">256</text>
 <text x="998.4" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">sessions</text>
 <text x="1184.0" y="674.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="end">opencode.ai</text>
 </svg>
