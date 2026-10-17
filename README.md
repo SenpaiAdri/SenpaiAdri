@@ -63,7 +63,5 @@
 </div> -->
 
 <!-- opencode-stats:start -->
-## ⚡ OpenCode
-
-![opencode stats](https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/main/assets/opencode-stats.svg?v=20261017082752)
+![opencode stats](https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/main/assets/opencode-stats.svg?v=20261017082904)
 <!-- opencode-stats:end -->
