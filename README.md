@@ -63,5 +63,5 @@
 </div> -->
 
 <!-- opencode-stats:start -->
-![opencode stats](https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/main/assets/opencode-stats.svg?v=20261022045442)
+![opencode stats](https://raw.githubusercontent.com/SenpaiAdri/SenpaiAdri/main/assets/opencode-stats.svg?v=20261023055437)
 <!-- opencode-stats:end -->
