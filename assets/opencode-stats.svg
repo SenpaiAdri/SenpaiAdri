@@ -178,10 +178,16 @@
 <rect x="685.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="703.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="721.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="685.0" y="236.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="721.0" y="236.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="685.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="703.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
-<rect x="703.0" y="272.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="721.0" y="254.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="685.0" y="272.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="721.0" y="272.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="685.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="703.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
+<rect x="721.0" y="290.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="757.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="829.0" y="218.0" width="18" height="18" fill="#ced3e2"/>
 <rect x="757.0" y="236.0" width="18" height="18" fill="#ced3e2"/>
@@ -482,7 +488,7 @@
 <rect x="987.8" y="474.2" width="4" height="4" fill="#332e44"/>
 <rect x="987.8" y="493.1" width="4" height="4" fill="#332e44"/>
 <rect x="984.8" y="509.0" width="10" height="10" rx="1.5" fill="#a78bfa"/>
-<rect x="984.8" y="527.9" width="10" height="10" rx="1.5" fill="#463a63"/>
+<rect x="984.8" y="527.9" width="10" height="10" rx="1.5" fill="#7a5fb4"/>
 <rect x="1003.7" y="414.5" width="10" height="10" rx="1.5" fill="#a78bfa"/>
 <rect x="1006.7" y="436.4" width="4" height="4" fill="#332e44"/>
 <rect x="1006.7" y="455.3" width="4" height="4" fill="#332e44"/>
@@ -497,7 +503,7 @@
 <rect x="1022.6" y="490.1" width="10" height="10" rx="1.5" fill="#a78bfa"/>
 <rect x="1025.6" y="512.0" width="4" height="4" fill="#332e44"/>
 <rect x="1022.6" y="527.9" width="10" height="10" rx="1.5" fill="#a78bfa"/>
-<rect x="1044.5" y="417.5" width="4" height="4" fill="#332e44"/>
+<rect x="1041.5" y="414.5" width="10" height="10" rx="1.5" fill="#463a63"/>
 <rect x="1044.5" y="436.4" width="4" height="4" fill="#332e44"/>
 <rect x="1044.5" y="455.3" width="4" height="4" fill="#332e44"/>
 <rect x="1044.5" y="474.2" width="4" height="4" fill="#332e44"/>
@@ -523,9 +529,9 @@
 <text x="980.4" y="400.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="13" font-weight="normal" fill="#9295c4" text-anchor="start">Oct</text>
 <text x="281.6" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">12 days</text>
 <text x="281.6" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">best streak</text>
-<text x="640.0" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">122</text>
+<text x="640.0" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">123</text>
 <text x="640.0" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">active days</text>
-<text x="998.4" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">284</text>
+<text x="998.4" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">285</text>
 <text x="998.4" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">sessions</text>
 <text x="1184.0" y="674.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="end">opencode.ai</text>
 </svg>
