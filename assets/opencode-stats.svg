@@ -493,7 +493,7 @@
 <rect x="924.0" y="468.7" width="4" height="4" fill="#332e44"/>
 <rect x="924.0" y="486.0" width="4" height="4" fill="#332e44"/>
 <rect x="921.0" y="500.3" width="10" height="10" rx="1.5" fill="#a78bfa"/>
-<rect x="921.0" y="517.7" width="10" height="10" rx="1.5" fill="#463a63"/>
+<rect x="921.0" y="517.7" width="10" height="10" rx="1.5" fill="#7a5fb4"/>
 <rect x="938.3" y="413.7" width="10" height="10" rx="1.5" fill="#a78bfa"/>
 <rect x="941.3" y="434.0" width="4" height="4" fill="#332e44"/>
 <rect x="941.3" y="451.3" width="4" height="4" fill="#332e44"/>
@@ -537,7 +537,7 @@
 <rect x="1028.0" y="503.3" width="4" height="4" fill="#332e44"/>
 <rect x="1028.0" y="520.7" width="4" height="4" fill="#332e44"/>
 <rect x="1045.3" y="416.7" width="4" height="4" fill="#332e44"/>
-<rect x="1045.3" y="434.0" width="4" height="4" fill="#332e44"/>
+<rect x="1042.3" y="431.0" width="10" height="10" rx="1.5" fill="#463a63"/>
 <rect x="1045.3" y="451.3" width="4" height="4" fill="#332e44"/>
 <rect x="1045.3" y="468.7" width="4" height="4" fill="#332e44"/>
 <rect x="1045.3" y="486.0" width="4" height="4" fill="#332e44"/>
@@ -563,9 +563,9 @@
 <text x="986.7" y="400.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="13" font-weight="normal" fill="#9295c4" text-anchor="start">Nov</text>
 <text x="281.6" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">12 days</text>
 <text x="281.6" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">best streak</text>
-<text x="640.0" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">124</text>
+<text x="640.0" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">125</text>
 <text x="640.0" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">active days</text>
-<text x="998.4" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">289</text>
+<text x="998.4" y="596.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="16" font-weight="bold" fill="#d8ddef" text-anchor="middle">290</text>
 <text x="998.4" y="620.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="middle">sessions</text>
 <text x="1184.0" y="674.0" font-family="ui-monospace,'JetBrains Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" font-weight="normal" fill="#7c7fa1" text-anchor="end">opencode.ai</text>
 </svg>
